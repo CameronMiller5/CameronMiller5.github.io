@@ -1,0 +1,1 @@
+This is Cameron Miller's first website made for MIS-3033. The purpose of the website is to make a 100 for Homework 8 due April 8th, 2022 at 10:00 AM! I am Cameron Miller, a junior at the University of Oklahoma studying MIS.
